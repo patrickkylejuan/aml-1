@@ -8,6 +8,11 @@ For the bot to be enabled in DSEG, it must meet the threshold of 5% false positi
 ## Datasets 
 In this repo is utterance-channel-dataset.csv, a dataset consisting of 300 posts and the corresponding appropriate channel for each post. 
 
+## Plan 
+The plan is to preprocess your text data using TF-IDF (NLP), build a classifier using an SVM (ML), run your code in a Jupyter notebook, and leverage functions from SKLearn. 
+Resources are available below to explain all the above concepts. If you have the time and motivation, a good challenge is to implement SVMs with stochastic gradient descent from scratch. 
+If there is time permitting build a Flask, run it in AWS, use the Discord API, and deploy your moderator bot in our server. Keep in mind that at the halfway point and at completion you will present your work to the community. Make sure to have some progress and work to show at each point to stay accountable and to provide teaching for more novice members of the community. 
+
 ## Content 
 Attached is a link to the DSEG wiki. It contains a section with recommended content for this project: https://docs.google.com/document/d/17WaVbR1xaKK5xb4F-SneId0Kgu36Bec0e01Yrs1tBB0/edit?usp=sharing
 
