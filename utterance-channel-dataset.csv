@@ -1,0 +1,301 @@
+Utterance,Channel,ID
+"Separate Category for the Weekly Topic To better highlight the weekly topic, we've moved the weekly topic channel to a separate channel. This also allowed us to have two separate text channels, one highlighting the topic (#weekly-topic) and one for discussing the topic (#weekly-topic-discussion).(edited)",community-requests,1
+"hey, i would like to ask if it's possible to get the channel where users exchanged projects back",community-requests,2
+Any update on my ModMail about the hackathon?,community-requests,3
+@Admins I have a suggestion. Python has some music libraries and also some great features like MIDI Handling. It would be a good idea if we opened a music in python topic channel.,community-requests,4
+Can we have a beginner channel,community-requests,5
+"Channel Rename We've changed #async-and-concurrency from #async to what it is currently. This is to better indicate that all concurrency topics (i.e. threads, trio, twisted, multiprocessing, GIL) belong in this topical channel, not just async.",community-requests,6
+FAQ Update We've updated the Frequently Asked Questions page on our website: https://pythondiscord.com/pages/frequently-asked-questions/ The FAQ now centers around common questions we get about this server and community. The !faq tag will link to this webpage.,community-requests,7
+February data review We've published our February data review containing information on the data we store to run the community. Find it here: https://www.notion.so/pythondiscord/Sunday-28th-February-bb58975e148e4c768c2f09d416baf4d2(edited),community-requests,8
+Food names We've changed the names of our help channels from chemical elements to food. We hope these will be more memorable for users of the help system.,community-requests,9
+"Hey, I see you asked in #python-general. Python-general is a rapidly scrolling discussion channel, so sometimes your questions will be missed.",community-requests,10
+I don't feel comfortable with product advertising in #resources,community-requests,11
+"I have an idea, after a recent update when we send a file in discord there is a preview of the content, so why not make it so that if we type !e and send the file it executes it",community-requests,12
+I suggest a self-promotion channel where anyone can shitpost about themselves and the people who don't care can mute it,community-requests,13
+I would be down for a little group showing off of people's personal projects though. Good for inspo for the newer people and I don't really understand what half of you do,community-requests,14
+I've seen some other servers add functionality so you can't post unless you perform some action specified in the wiki. That might be useful to ensure question askers actually read the wiki before posting.,community-requests,15
+Icon & Banner Change The server icon and banner have been changes to celebrate Holi. Thanks to @AG for the icon & banner!,community-requests,16
+"idk what other topics youd have, just some suggestions",community-requests,17
+Is it possible to lower slowmode in #python-general?,community-requests,18
+Is this the right Channel to ask for help/hints for planning a project?,community-requests,19
+It'll be useful to probably have maybe a link to a beginner's guide/roadmap for ML if people want to figure out how to learn.,community-requests,20
+It'll probably be nice to have more guides on specific topics and maybe start tabulating FAQs?,community-requests,21
+Itd be like a discord server event,community-requests,22
+Lower the sm for #ot0-hemlock’s-morning-deliveries?,community-requests,23
+"Maybe a bit silly, but would it be possible to have a dog pictures channel? I'd love to share photos of mine but don't want to intrude on the cat theme :)",community-requests,24
+"New Development Channel: #dev-bounty-board We just opened the #dev-bounty-board channel that list our top priority GitHub issues and PRs on our project. If you are interested in helping out, feel free to check out the listed issues and send a message in #dev-contrib, we will help you get started!",community-requests,25
+"Privacy policy updates We've made some amendments to our privacy policy to clarify data storage by Metricity, our Discord metric collector. Please find the new version at: https://www.notion.so/pythondiscord/Privacy-Policy-4ceb50b84d164541bd5b0b7046aa7e6a(edited)",community-requests,26
+"question for ya. I stream in twitch in the Science & Technology genre, Machine learning studying and related data science stuff. is there a way we can have a stream-announcements channel that we can post our twitch channel in this discord server?",community-requests,27
+Renaming #data-science-and-ai We've renamed the data-science channel to #data-science-and-ai (data-science-and-ai). This is meant to help beginners more easily understand the topic at first glance.,community-requests,28
+should we have topical channels instead of or in addition to just #machine-learning ?,community-requests,29
+"so, I am a little lost here! seems to me that there's one project being worked on by @yacov but I was wondering if we could create more project channels over here by the experienced folks probably so that the people arriving can follow along a project if they are interested. I sure am interested as hell in working on a project related to computer vision besides building my resume to be honest, and I am here for a mentor or a team I could work with for the same. I don't have a project idea, but if experienced folks have any, please let me know!",community-requests,30
+The useless pointless questions are kinda annoying,community-requests,31
+there should be a student role!,community-requests,32
+"There's so many ""I've started in data science, what should I learn"" type questions.",community-requests,33
+think there should be some channels specific to languages.,community-requests,34
+"We have merged a new command to @Sir Lancebot: .pyfact. It give you facts... about python :). Thanks to @MrKomodoDragon for writing it, and @Chrisjl @Kronifer and @Jason Terror ♦ for reviewing it. It currently only has a few facts, so please suggest any you'd like added on the discussion here: https://github.com/python-discord/meta/discussions/93(edited)",community-requests,35
+what should one do when rule 1 gets violated?,community-requests,36
+"What was that idea a while back, like a channel people get put in to start with or something",community-requests,37
+What would be some must have general pages/sections for a community wiki to you guys?,community-requests,38
+What's the #sister-communities channel for? It's empty and read-only.,community-requests,39
+"Would it be a good idea to have some kind of small project we all work on together? Like maybe we all enter a kaggle competition, try to do something cool/niche(edited)",community-requests,40
+"@everyone I’m having an awesome time organizing this community with y’all and I’m excited to being putting these projects together with your help. As I organize these 4 projects, I figure it’ll be helpful for me to set up some time with some of you individually to better organize these projects, help people form groups, and make it easier for me to help you find jobs at the end of the project if that’s relevant for you. I set up some availability tomorrow and on Wednesday to get to know some folks and learn more about what will work best. Feel free to grab a 15 minute slot with me at this link: https://calendly.com/yacovlewis/introduction ",General,41
+"@everyone Introducing Data Science with Expert Guidance Project 1: Applications in ML (AML)! For everyone at other levels, I will be rolling out those projects over the next week or two. For Project 1: AML, participants will build a discord moderator bot that helps members post in the right channel. This project will introduce people to NLP, ML classifiers, git, and web applications if time permitting. For a full walkthrough of the project and to sign up, go over to the #apps-in-ml-1 channel in the open projects section. The introductory post there will answer many of your questions. If you still have questions, feel free to post them there. I'm looking forward to starting this first journey with you guys!",General,42
+"@everyone the results are in and the most requested experience is ""Projects for different difficulty levels for non-experts to carry out."" Please help me outline projects that would be valuable to you. I'll share my initial thoughts around what these projects will look like and what they should provide. Please give me feedback on these ideas to help me best facilitate this experience for you all.",General,43
+"1. Most advanced: New topics within Deep Learning. Examples could be computer vision, AI for Audio, AI for Video, Natural Language Processing, etc.",General,44
+"2.  Projects for different difficulty levels for non-experts to carry out. Tackle a project individually or in a group. Experts will be available to answer questions around the project. Examples of projects could be: kaggle projects, projects for real world use, dummy projects for beginners, etc",General,45
+2. Advanced: Introduction to deep learning. A deep learning project with the goal of introducing people to deep learning concepts(edited),General,46
+"3.  Projects led by experts for non-experts to watch. Follow along as an expert carries out a project to see how they do it, and how they learn along the way. Examples are the project I'm carrying out in audio, (this project is temporarily paused as I negotiate with my client about what I can share publicly. Updates will come soon). See how medium articles or open source projects are executed from beginning to end.",General,47
+3. Intermediate: Applications in Machine Learning. A Machine learning project with the goal of helping people apply machine learning concepts and learning a new domain of machine learning(edited),General,48
+"4.  Guest audio sessions, AMA's etc from experts on certain topics in a voice channel at a specific time. Sessions could be led by experts in specific domains of AI, or could come from recruiters for data science, admissions counselors at universities, etc.(edited)",General,49
+4. Beginner: Introduction to Machine learning. A machine learning project with the goal of introducing people to machine learning concepts,General,50
+"Alright I'll figure some things out  Please feel free to reach out to me to help, share ideas, say hi, or whatever you want. I'm just trying to help and I'm learning a lot in the process",General,51
+"Calendly Introduction - Yacov Lewis If there's anything you want me to look at beforehand, just send it to me ahead of our call and I'll take a look!",General,52
+Going to repost what got buried under all these arrival messages: Thank you all for joining  I’m certainly new to organizing a discord community but I can see that many people would really deeply benefit from going through their data science journey with guidance from experts they can trust so thats what I’m trying to do here. I’ll try and be as available as I can for the community and help coordinate with other DS experts to make this a great place for people to learn and become big time data scientists,General,53
+Help us make this community more of what you need. Please react to the ideas that I post here or that others comment that you would most like to see as part of this server:,General,54
+"Help: If you're a data science expert and want to help review and moderate answers and resources, answer questions, or share projects, please dm me If you have experience moderating a community, and you want to help with this community, please dm me Since I'm new to this, I've created a channel called community-requests-and-feedback to post what you think the community organizers should do or improvements they should make. Also feel free to just dm me whatever you feel like saying (please be nice  )",General,55
+"Hey @yacov, I’m interested in 1 “new topics”. I’d be interested in doing something in NLP. I’ve worked on a chatbot before 3ish years ago in grad school and it didn’t work well. Would love to try again with better data, and newer models like transformers.",General,56
+"Once again, I’m new to this whole process and trying my best to help, so if anyone has suggestions, complaints, advice etc just let me know",General,57
+Please vote for the difficulty of the project that you would like to participate in:,General,58
+Super cool idea! Others should please react to this suggestion or post others as well. As soon as I see some interest around some of these options i’ll figure out how to make them happen!,General,59
+Please keep this channel only for information related to projects and community issues that are relevant to everyone,General,60
+Thank you all for you help in making this community so wonderful for all of us,General,61
+I want this to be a place where people can come and feel confident in what they're learning and feel safe asking their questions,General,62
+The welcome messages have now been moved to arrivals. Thank you @Papa Kamis,General,63
+?,general-questions,64
+#deep_learning #conv_nets how to choose networks depth and width for a given input resolution?,general-questions,65
+"1. what should the audio I record be like, eg. one continuous stream of me saying wake up over and over, vs one of me not saying it or saying different things, or one separate audio file for me saying wake up once per training example and one audio file of me saying something else per example? 2. what should the actual examples look like? random slices of data from the dataset, or actual full ""wake up"" clips to prevent the network from learning ""ke up"" or ""wake"" on their own? 3. how much data should I have, and what kind of model is the smallest possible?",general-questions,66
+"Additional question, is splitting date into year/month/day better than just converting it into milliseconds? Additional context: I'm working with stock historical data.",general-questions,67
+"Also, how do you normalize year? Wouldn't it make no sense since it would not take succeeding years into account?(edited)",general-questions,68
+any ideas?,general-questions,69
+any rule of thumb for guessing a good network size?,general-questions,70
+basically i want to learn how fast the temperature changes without learning any patterns,general-questions,71
+does anyone has any experience with mds?,general-questions,72
+does anyone know how to do image embeddings without labels which doesnt involve just a CNN and triplet loss,general-questions,73
+"Hello I'm new here and stuck on something - any insight appreciated. I can see via bar charts that when X falls within upper and lower quartiles I get significant change in the avg value of y (which is a % representing risk). I have around 10 such features I am evaluating. Using Random Forest Regressor (sklearn), I feed continuous X data (better result) and also try categorising X by quartile bucket (worse result). Am I using the right algo for for this scenario please? Can random forest understand that my features are predictive only when they have extreme values (I guess this is a non linear relationship)",general-questions,74
+"Hello. I’m new here and wanted to ask a question specifically about feature engineering. When I google this topic, articles like to highlight that it is an extremely important part of machine learning (I would agree with that) but then they go on to focus on topics like data cleaning (dealing with missing data) extracting information (from names or street addresses), adding data (like if you have a location and time, you could add the weather) or removing useless data that can muddy the model. Certainly all important topics but there is one area I’m interested in that does not seem to be discussed. In one of the Kaggle learn sections they mention how one of the practice competitions is the loan defaults data set. The competition is designed to be setup as a black box where we are not meant to have an intimate knowledge of the data to build new features. They mention that someone figured out that, out of the hundreds of features, if you subtract 1 specific one from another, you created a new feature with high predictability. But they never discuss HOW it was found that those feature combinations had the dependency. So, TL;DR if you have a data set with hundreds or more columns, where you do not have an intuitive knowledge of the information, how can you go about finding potentially impactful combinations. I’m sure you could brute force it but if the data set was large enough, this would become computationally expensive right? Is there a statistical method for determining this?",general-questions,75
+Hey guys I have small engine here where I record the temperature and load every minute. load increase -> temperature increase (slower) The thing is the temperature will be around roughly the same with a given load. but is there a way i can forecast the temperature ?,general-questions,76
+Hey guys quick question. I’ve been looking through a lot of Keras models for LSTM and noticed they all have 2 train and test datasets labelled xtrain ytrain and xtest and ytest. What do each of these usually mean? Why can’t we just have all the data in one set? Why do we need and x and a y?,general-questions,77
+"Hey guys, I plotted the loss, accuracy and validation accuracy per epoch, and I was just wondering if anyone had any ideas as to why the validation accuracy is fluctuating so wildly. I am absolutely aware that the model is fairly awful, just wondering as to why to it goes from 90 - 50 - 90 - 50... so often",general-questions,78
+"Hey guys, I was playing around with train-test-split with the stratify parameter vs Stratified Shuffling and I was wondering if there was any difference between them?",general-questions,79
+"Hey, I'm trying to upscale high res images using ESRGAN (by high res I mean ~4K images) but with pretrained model there's no improvement. Is it because network wasn't trained with large images ?",general-questions,80
+"Hi ! i'm working in facial emotion detection with a new dataset .. But i'm a little bit lost .. If someone would like to help me, it'll be a pleasure and a great help hahaha ! I'm a girl from France , I study psychology and artificial intelligence .. Thank you !!",general-questions,81
+"hi everyone ! im dealing with a forecast time series in r... i hope somenoe could help me. i have troubles to set the ts.... my query takes the data dialy, from yesterday to 56 days before, and my script to set the ts is : envios_ts <- ts(datos_envios$envios, start = c(2021,01),end = c(2021,56), frequency = 14) but when i plot this ts, the x axes goes to 2025.",general-questions,82
+"hi everyone... this question may be silly, but im new in this wolrd so i have licence to be silly. is there a way to avoid neperian numbers like ""p-value: 5.297e-10""",general-questions,83
+"hi guys, i have a question that i hope someone can help me solve this problem. I'm doing my capstone project, the project is about smart door lock using facial recognition. I have already built the API using Flask and OpenCV for capturing faces and training. After that, I don't know how to put the model to the Raspberry Pi for facial recognition. If you have any ideas, please let me know. Thanks for your help guys.",general-questions,84
+"Hi guys, i trained a model on 50 classes of deepfood-101 end to end. Then I took out the dense layers and ended with GAP -> extracted features for training, testing and validation data. In order to be able to retrain the model for more classes, I took the extractor, extracted features for new classes (still food) and tried to train Dense layers on the union of old and new extracted data. If I try that with only old data, it trains approx to the same state as it was before. If I add the new classes, it just goes to accuracy of 0.02. I am starting to be really desperate and just can't find any reason why.",general-questions,85
+"Hi guys! I want to develop an image database for machine learning, but not sure about relational (like SQL) or non relational(NoSQL) database, any thoughts? which one do you recommend me? the main idea is to do some processing on the images and finally sending into an app (probably Flutter)",general-questions,86
+"Hi! does anyone know of a good tracker (object detection + tracking in frame sequence) that uses a few shot classifier? I wanted to use deep sort with Yolov3 but my problem is that I have very few images for most of my classes, I don't think Yolo would work very well with such skeewed classes would it? I'm trying to track animals in sequences of photos taken with trap cameras in the wild, I have to use a limited dataset (I can't just google more images of the animals) and there's very few (<5) pictures of some of the animals, any suggestions?",general-questions,87
+How long would it take to train an RNN on 200MB of text? is 200MB too much to handle for google colab?,general-questions,88
+How would I format a dataset for hot word detection?,general-questions,89
+"I am new to ML and I have a basic general idea. I wanted to learn more about GANs and so I started with a book and took a simple DCGAN example. At first, I run the program provided by the book but it didn't work. After several days I found out that I had keras version 2.3.1 wheras the book uses 2.1.6. Once I downgraded back to 2.1.6, everything worked as expected. I am very curious to know what's going on, any ideas?",general-questions,90
+"I am wondering if anyone is familiar with neural-style or neural-style-pt? I'm working with it, but getting some severe patchy splotchyness and I'm really hoping someone can help me understand the source of that splotchiness and how to fix it.",general-questions,91
+I have a made a model using keras for OCR. I was wondering now what is the next step to use the model with data outside of the training and testing data. Do I need to make a model to extract features from a picture to find the text so it can pass the input to the model?,general-questions,92
+"i have a MNIST handwritten dataset with RGB photos of size (90, 90)",general-questions,93
+"I want a convnet to recognize when I say ""Wake up"", and when I say either anything else or nothing/background noise.",general-questions,94
+If lets say the load was 700KWH for the last 20 minutes and the temperature is roughly around 40 degrees i would want the forecast to stay around 40,general-questions,95
+if the temperature would have dropped lets say at t-5 to 200 i would like to forecast the temperature fall if the load would stay the same for my forecast,general-questions,96
+"In NLP, how are two similar sentences ""grouped"" together, I can't remember which ML algorithm it was to measure their similarity. e.g. calculating similarity scores for “I like to tailgate when I go to the stadium” and “I like running when I go to the stadium”?",general-questions,97
+"its my first approach to fc ts, and i surely doing first timers errors",general-questions,98
+Model is MobileNetV3.,general-questions,99
+"Need some help here: For image classification problems like cat vs dogs, the output layer is 2. Image classification problems like diabetic retinopathy seem to be more of a grading classifier. Although the targets range from 0 to 4, (signifying the severity of the condition), is it better to have 1 as the output layer, or 5, for these kinds of problems? I have seen Kaggle kernels where both are utilized.",general-questions,100
+"One question In paper ""Alleviating catastrophic forgetting using context-dependent gating and synaptic stabilization"", it has been proposed a method named XdG. I think the idea is like dropout, right? If yes, what is the purpose of this paper? It is not new method or even idea in 2019! It has a beautiful name ""context-dependent gating"" but so..(edited)",general-questions,101
+"right now I've tried random slices of data from continuous streams of me saying either the hot word or not, but the false positives and false negatives are waaaaaaaaaaay too many, and the architecture is more or less this one but with a sigmoid instead of a softmax and less feature channels https://pytorch.org/tutorials/intermediate/speech_command_recognition_with_torchaudio.html#define-the-network",general-questions,102
+Something pretty like this one from the ResNet paper,general-questions,103
+"train_generator = train_datagen.flow_from_directory( file_train, target_size=(256, 256), batch_size=16, class_mode='binary') is running slow for me, currently my files are stored in google drive, is there a faster way for me to store/load my files? I'm guessing I should just render them all to what my generator does, to reduce time doing image processing?",general-questions,104
+"What kind of model is good for a task such as finding the optimal input matrix that when fed into a black box program gives the highest metric? The black box isn't random, but we don't know how it gives scores.",general-questions,105
+"¡Hola! I'm Heriberto, from México.",Introduction,106
+"Hei anuj, It seems we have same background. Can you tell me the application data science project in manufacturing field? I am very interested in it.",Introduction,107
+Hello Aniket from India,Introduction,108
+"Hello everyone ! I'm Kawtare, I'm from France, I study psychology and artificial intelligence ! I'm learning deep learning, machine learning ...",Introduction,109
+hello everyone i am pavan mahajan from india,Introduction,110
+Hello everyone I am Vineesh from India. I am working as project engineer in Oil and Gas industry. I am looking to transition into data science field and I have started working on it. Here to gain more insights and knowledge.,Introduction,111
+hello everyone im a SME in statistics at chegg and also working as a data analyst at netomi,Introduction,112
+"Hello Everyone, This is Abdurahman. I have a bachelor's degree in Software Engineering. I am currently doing my master's degree in Machine learning. I'm looking forward to sharing ideas and help each other with fellow scientists.",Introduction,113
+Hello guy Big G from France,Introduction,114
+"Hello, I am a compsci student gathering knowledge about AI and data science for future studies.",Introduction,115
+"Hello, I'm Jon from the US",Introduction,116
+"Hello, I'm yuki and I am trying to learn ML on my own, hopefully will grow with your support!",Introduction,117
+"Hello, Im Rohan and I live in NY and I'm interested in ML(edited)",Introduction,118
+"Hello, My name is Mert. I am Freshman CS student from Turkey. I have passion for Data Science and ML Engineering. I am improving myself in those areas",Introduction,119
+Hello! I'm Artur from Brazil,Introduction,120
+"Hello! My name is Christy, I am a recently graduated MSDS from Utica college and I currently work as an analyst in higher education. I have just started using Dataiku as a ML platform which has been quite interesting and complicated. I’m still new to all things machine learning, although I do have some skills and knowledge in their use, strengths and weakness.",Introduction,121
+Hey everyone. I'm just a hobbyist who's interested in creating entertaining content using machine learning.,Introduction,122
+Hi Ariel from Bolivia,Introduction,123
+"Hi everyone, I am Kelvin from Nairobi, Kenya. Happy to be here, looking forward to learning a whole lot and sharing ideas with all of you.",Introduction,124
+"Hi everyone, I am Mayowa. A Data Science student looking for knowledge,experience and maybe internships",Introduction,125
+"Hi everyone, i'm beginner python programmer and i am interested in ML. Looking forward to meeting you guys!(edited)",Introduction,126
+"Hi everyone, I'm Claudio and I'm in the process of graduating from an artificial intelligence Master degree. I'm looking for new insights and sources to keep up with the fastly-changing state of the art",Introduction,127
+"Hi everyone. My name is Carter. I'm a solution analyst with Deloitte, and I do consulting work for gov't clients to solve analytics and data engineering problems. I primarily use R, Python, and PowerBI. I'm also a GCP-certified Data Engineer and am working on my AWS experience. I would like to serve as a resource for anyone who'd like help with R/RStudio, especially those who are working through R4DS or learning about the tidyverse. Please feel free to reach out and connect through Discord or LinkedIn and I'd love to network with you.",Introduction,128
+"Hi, everyone, I am beginning to start learning machine learning. I need hints from where I can start learning. I know few algorithms like vanilla neural networks and linear regression",Introduction,129
+"Hi, I'm Lena from Malaysia! I'm an actuarial science graduate who's trying to branch into ML. Nice to meet everyone!",Introduction,130
+"Hi, Michael from Poland. Nice to meet you folks.",Introduction,131
+"hiya this is Vivek from London, want to delve into AI/ML",Introduction,132
+I know nothing of anything about AI right now but something I do want to look into is deep learning were the idea is the robot simply gets smarter long i keep it on.,Introduction,133
+Is it from Andrew Ng? I have enrolled it. Do you mind give me another resource? Honestly i need project based learning resource.,Introduction,134
+"Hello everyone, I am Quinten and I studied Physics and astronomy. After my studies I rolled into a data science carreer at a law firm. I joined to get in touch with fellow data oriented people :)",Introduction,135
+Hi my name is Quincy. I recently graduated with a bachelor degree in computer science. I am currently taking on a course on data science and would like to have conversations with like minded people around that. I hope we get along and grow together,Introduction,136
+"Hello everyone, I am Vishwas from India. I work as a Data Scientist in a Pharma company (ACG) working on problems related to IIOT applications in creating solutions related to predictive maintenance, anomaly detection and other machine learning topics related to IOT based applications.",Introduction,137
+"Greeting everyone, this is Abdullah Khan from India... I recently completed my undergrad in commerce. I wanna transition my career into data science n I'm here to learn the same.",Introduction,138
+Hello all. I'm just a hobbyist without a hobby. I just order a NVIDIA Jetson Nano (4G B01) and am very interested in learning all about AI. Odd but my love into this all started from seeing the Vector Robot. I want to see if I can build one which of course is a bit smarter. My hopes is to build a home robot which can act as a mouse and find stuff and take it back home. The base idea anyway.(edited),Introduction,139
+"thanks for your advice, Sora",Introduction,140
+"10 Amazing Python Hacks with Cool Libraries - datamahadev.com In this article, we will learn some amazing python hacks with some rare yet cool libraries. The main purpose of this article is to learn(or automate) a few basic things with the help of python. So, let us begin.",member-generated-content,141
+10 python hacks you must know : https://datamahadev.com/10-amazing-python-hacks-with-cool-libraries/ datamahadev.com,member-generated-content,142
+A good resource for inverse transformation sampling for those who need it.,member-generated-content,143
+"Chatbots have always been so fascinating to me. I was always curious to study about chatbots. Today, I am happy to share that my first try at ""building a Retrieval based Chatbot"" is successful. Oh yes! I created my first chatbot. Feel free to share your feedback. You can find the code and complete documentation for this chatbot project from the link below. https://datamahadev.com/building-a-chatbot-in-python/",member-generated-content,144
+"Creating a Custom R Package I don’t know about you, but I find the method that R uses to sort data frames incredibly non-intuitive. Every time I wanted to sort a data…",member-generated-content,145
+"Finished my article on the scalping market for Big Navi/RDNA2 GPUs. It is far, far smaller than the RTX 30 series market. https://dev.to/driscoll42/big-navi-rdna2-series-scalping-market-analysis-2c3k Summary: * 3,461 RDNA2 GPUs sold on eBay/StockX * $3.95 million in sales on eBay/StockX for ~$944k in profit for scalpers and $615k for eBay/PayPal/StockX * 6800 XT price increased 17% since 1/1 while 6900 and 6800 only increased 7% * RX 5000 and Vega cards have increased 33% or more since 1/1",member-generated-content,146
+"Have you ever thought of building your chatbot? If you have, then this project is going to be your first step in the innovative field of chatbots.",member-generated-content,147
+"hello everyone, you can check out my article about scikit learn design. https://burcukoculu.medium.com/scikit-learn-design-with-easy-explanation-b3bcb060580",member-generated-content,148
+Hello Everyone. I have written a blog on image similarity without using any fancy techniques such as CNNs and more. It uses pure maths and basic programming and the results are pretty good. Please do give it a read. https://www.analyticsvidhya.com/blog/2021/03/a-beginners-guide-to-image-similarity-using-python/ I am also new to this group but I aim to learn a lot from you guys. Thank you everyone,member-generated-content,149
+"hey everyone , recently i published a blog on Survival Functions, would appreciate if you guys can check it out https://medium.com/p/survival-functions-101-bd57fb8be888?source=email-2d5085b9e12f--writer.postDistributed&sk=74d03f5707b3b48f5d8a4c7a07299b85",member-generated-content,150
+"Hey everyone, I just finished the first chunk of this project: https://github.com/CharlesAverill/satyrn, an alternative to jupyter notebooks that allows you to run cells in parallel. It’s especially useful in the data science field as you can process unrelated data in parallel, often greatly speeding up total runtime. However there’s no UI yet, it’s completely command-line-based. If anyone wants to join the project and help build the frontend, I would greatly appreciate it. Thank you!",member-generated-content,151
+"Hey everyone! A bunch of us got fed up with how rigid the PyTorch dataloader can be at times. We ended up building some scaffolding around the DataLoader class, to enable things like dynamic labels (we use a JSON file to label images, rather than subfolders in a dataset), loading a subset of a dataset, being able to pre-process an image using a custom function (do we want to generate a bunch of crops per source image before loading?) and so on. We're calling it BetterLoader, and I would love to hear what you all think and whether you think a project like this would be helpful. We're finding it useful within our deep learning workflows, and would appreciate a star if you think it would be too  https://github.com/binitai/betterloader(edited)",member-generated-content,152
+Hey everyone! This is a project of mine that I have been working on. It is a video captioning project. This encoder decoder architecture is used to generate captions describing scene of a video at a particular event. Here is a demo of it working in real time. Check out my Github https://shreyz-max.github.io/Video-Captioning/. Thanks!,member-generated-content,153
+"Hey, everyone! My professor and I developed a simulator for swarm robots in C/C++ and had a fair bit of success. Now I am thinking of implementing a buddy system for the robots where the 2 robots will work together within the swarm and would be considered as a single entity. I am looking for someone who would be interested in mentoring me towards my objective",member-generated-content,154
+"Hi  I wrote a short article introducing ""8 Simple Techniques to Prevent Overfitting"" in Machine Learning for beginners. Hope a few of you may find the toolbox of methods to battle overfitting helpful  https://towardsdatascience.com/8-simple-techniques-to-prevent-overfitting-4d443da2ef7d",member-generated-content,155
+"Hi all, I just published an article via Towards Data Science on an intriguing CVPR 2020 paper, feel free to check it out! https://towardsdatascience.com/oops-predicting-unintentional-action-in-video-87626aab3da3?source=social.tw",member-generated-content,156
+https://github.com/doccano/doccano - open source text annotation,member-generated-content,157
+https://myrtle.ai/how-to-train-your-resnet-8-bag-of-tricks/(edited),member-generated-content,158
+"https://pypi.org/project/satyrn-python/0.8.5/ A jupyter alternative I wrote that supports backend multithreading and branching code, along with network co-editing.",member-generated-content,159
+"https://towardsdatascience.com/the-viola-jones-algorithm-7357c07d8356 Hello everyone I wrote a blog on Viola Jones algorithm which is a foundation for many applications like Object detection, Face detection and many more, your feedback would be highly appreciated!",member-generated-content,160
+https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/monte-carlo-methods-mathematical-foundations/inverse-transform-sampling-method,member-generated-content,161
+I created an awesome list of Discord communities related to everything programming https://github.com/mhxion/awesome-programming-discord#machine-learning The link takes you to the machine learning section. Hope this resource is helpful. Contributions or any feedback welcome.,member-generated-content,162
+"I've just written my first article on Medium, detailing the basics of creating a package in R. I'd appreciate any feedback. https://dikbrown.medium.com/creating-a-custom-r-package-9a2e303d3332",member-generated-content,163
+"Image segmentation is like an advanced form of classification. In Classification, we used to classify pictures into classes. In the case of image segmentation, we classify each pixel of the image into different classes Tutorial to start Image Segmentation using transfer learning using Labelme dataset.",member-generated-content,164
+"Image Similarity | Implement Image Similarity in Python Image similarity is topic not talked about in the field of computer vision. In this article, let us understand Image similarity in Python",member-generated-content,165
+Introducing pyradox: a python library that helps you with implementing various state of the art neural networks in a totally customizable fashion using TensorFlow 2. You can find pyradox here: https://github.com/Ritvik19/pyradox Check out how it can be used to Detect location of Keypoints on face images: https://ritvik19.medium.com/facial-key-points-detection-using-pyradox-f2a6cf6a862f Don't forget to  the repo!,member-generated-content,166
+"Introducing vizard: a python library that helps you create Intuitive, Easy and Quick Visualizations for Data Science Projects. You can find vizard here: https://github.com/Ritvik19/vizard Check out how it can be used in your data science projects Don't forget to  the repo!",member-generated-content,167
+"Just wanted share my notes, in case they're useful to anyone: https://github.com/jinayshah7/AAIC-Notes I only have handful of them right now, but I'm adding new ones everyday. Encoder-Decoders, Attention, Transformers, BERT, Image Segmentation, etc. Just to name a few.",member-generated-content,168
+Line art with GAN. https://twitter.com/Vijish68859437/status/1319185184739061760?s=19,member-generated-content,169
+Nlp repo contain all my current progress from visualisations to custom attentions layers https://github.com/evilc3/NLP_V2 #nlp,member-generated-content,170
+python notebook tutoriel on kaggle for EDA https://www.kaggle.com/hoodkaggle/eda-pyplot-seaborn-gold-diggerdata,member-generated-content,171
+"Reformer, which was proposed in the paper Reformer: The Efficient Transformer by Google Research, essentially addresses some efficiency constraints of the Transformer model and proposes an improved version of the Transformer that implements Locality Sensitive Hashing (LSH) and Reversible Layers to make the model much more efficient. I’ve made a kaggle kernel implementing the Reformer Model for Named Entity Recognition(NER). Please review the notebook and tell suggestions. https://www.kaggle.com/sauravmaheshkar/trax-ner-using-reformer",member-generated-content,172
+Samiksha Bhavsar,member-generated-content,173
+Scikit-Learn Design with Easy Explanation I think we all can agree that Scikit-learn is the main machine learning library for Python. It’s actually beginner friendly library…,member-generated-content,174
+So i made a deep learning project and even made a video for it https://youtu.be/e4w8W9l1MBk here is the source: https://github.com/fvviz/Digit-recognizer,member-generated-content,175
+So im finally done with this project i was working on. It lets you play Rock Paper scissor with your computer.Feedback would be awesome video : https://youtu.be/41Q9lkhiZ9Y source code : https://github.com/fvviz/Rock-paper-scissor,member-generated-content,176
+"Today I published an article in DataBulls. Hop onto the link if you want to learn the basic concepts of Neural Networks DataBulls are a growing team of individuals striving to present meaningful outcomes with the help of data. If you're interested to become a part of this community, check out the link below to apply for authorship. https://medium.com/data-myths-and-facts/overview-of-neural-networks-84382d068d78 https://medium.com/data-myths-and-facts/come-write-with-us-as-a-dataprofessional-or-enthusiast-771a641c4a48",member-generated-content,177
+"Toon-Me, Toon Portraits. GitHub link: https://github.com/vijishmadhavan/Toon-Me",member-generated-content,178
+"Top 6 AutoML Frameworks - datamahadev.com In this era of automation, why couldn’t you automate these machine learning pipelines to save time and effort? This is where AutoML frameworks come into the picture. This article will introduce you to the 6 most popular AutoML frameworks.",member-generated-content,179
+i ve been trying to do a 2d NN (global bathymetry) regression using Tensorflow for a while now.(edited),Off-topic,180
+you should share some results when you're happy with the model. i'm curious to see how you approach that problem,Off-topic,181
+"you're really big on hydration, eh?",Off-topic,182
+that's hella chill,Off-topic,183
+@BeanLearning yeah  how do you know that,Off-topic,184
+Thats cool,Off-topic,185
+Open a command prompt as administrator,Off-topic,186
+oh,Off-topic,187
+"""hey buddy, some stranger on the internet says they love you""",Off-topic,188
+"@Poppa isn't there a Finnish saying about, ""if a sauna, alcohol, or pine pitch won't make you feel better, the doctor can't either?""",Off-topic,189
+Ah Matlab. I remember when I thought it was the shit all the way until my 3rd/4th year of undergrad. Then I found Python and havent looked back,Off-topic,190
+also bean how is the problem goin?,Off-topic,191
+and hug your pupper?,Off-topic,192
+any breakthrough?,Off-topic,193
+bahaha,Off-topic,194
+"because i hate myself, i decided to try MATLAB's neural net architecture on a problem in my CV class (which is being taught in MATLAB)(edited)",Off-topic,195
+cons - it is a pain in the butt to debug and there's some nasty stuff hard-coded in,Off-topic,196
+damn covid,Off-topic,197
+does cool stuff with old rocks,Off-topic,198
+doesn't work,Off-topic,199
+for my dad,Off-topic,200
+for real,Off-topic,201
+"haha, i have a good friend who's Finnish",Off-topic,202
+Has anyone over here used sagemaker? Are there standard values for CPU/ memory utilization in sagemaker? Like say if the % of CPU utilization exceeds x% then it is critical. So is there some standard or average value for x here?,Off-topic,203
+he appreciates it  It has everything I want in life.,Off-topic,204
+he doesn't use linux,Off-topic,205
+"holy cow, i'm reading about CNN pre-training with random labels and it's really cool that that can actually be beneficial",Off-topic,206
+i hate windows,Off-topic,207
+i hope a Microsoft engineer is not online,Off-topic,208
+I learned a lot in the process.,Off-topic,209
+i really don't know how to take that,Off-topic,210
+I wonder if my interviewers also feel the same about me sometimes...,Off-topic,211
+It's also available on Linux though no one uses it,Off-topic,212
+it's also MATLAB,Off-topic,213
+it's cold and wet out and I wish the public sauna was still open here,Off-topic,214
+It's like bash but for Windows,Off-topic,215
+LMAO,Off-topic,216
+lol,Off-topic,217
+lol i cant make him,Off-topic,218
+"lol, is that the formal way of saying ""you thirsty?""",Off-topic,219
+Make him,Off-topic,220
+maybe make sure you have a healthy snack and drink lots of water?,Off-topic,221
+my main os is Ubuntu,Off-topic,222
+"nevermind the nice things i previously said, this is hot trash(edited)",Off-topic,223
+oh nice,Off-topic,224
+once upon a time there was a lovely little pupper called Snoopy and he said if you don't drink a glass of water I will be very sad please drink some and forward this message to 19 people or you will be struck with bad luck for 7 years,Off-topic,225
+Open a command prompt as admin,Off-topic,226
+"or: Winkey-X, ""Windows PowerShell (Admin)""",Off-topic,227
+Photos.,Off-topic,228
+pros - it interfaces well with the GPU and is more full featured than expected,Off-topic,229
+right click cmd click run as administrator,Off-topic,230
+Right!? shit's dope,Off-topic,231
+showmeyourdog,Off-topic,232
+shOWUSYOURDOG.,Off-topic,233
+still trying to decipher this,Off-topic,234
+"stuff is going, i'm switching advisors so now i'm on a plan of finish the main project to get a journal paper and document the rest so that the next grad student can take it over without too much suffering",Off-topic,235
+TELL YOUR PUPPY I LOVE IT.,Off-topic,236
+what even is powershell,Off-topic,237
+"Why do people apply for a developer role, when they don't know how to code? Or why do they even say they know Python when they are unable to make a very simple script using Python",Off-topic,238
+"yeah, she's a geoscience prof",Off-topic,239
+YOU HAVE A DOG!??,Off-topic,240
+"(please ping me if you reply, thank you)",Resources,241
+"@Sora @BeanLearning I am preparing survey documents for presentation, Latex is new for me, can u suggest software tool for Latex",Resources,242
+any books that extensively describe stochastic processes as they relate to ml?,Resources,243
+Anyone got any good intros to reinforcement learning? Currently reading Richard S. Sutton and Andrew G. Bartos book but just wondering if theres any other good resources people would recommend,Resources,244
+anyone got resources on training models on cloud?,Resources,245
+anyone know of any good reference implementations for GPU-sided non-max-suppression?,Resources,246
+Blei's lectures seem legit but no lecture videos available,Resources,247
+Does anyone have a database of faces labeled with bounded boxes? Trying to get a face tracker project off the ground.,Resources,248
+Does anyone have a good book on ml with python?,Resources,249
+does anyone have a resource that teaches convolutional neural nets,Resources,250
+Does anyone know a resource that explains each topic while explaining all the math involved?,Resources,251
+Does somebody know a good free book with a good chapter on Q-learning? i need to write a chapter about q-learning and cant find any good resources,Resources,252
+Good ressources to learn C++ ?,Resources,253
+Hello All. I have made way through week 7 of Andre Ng's ML course but stopped there. So I am restarting it again from week 1. What really gets me or demotivates me is the Math that is involved. Can anybody tell me what they brushed through and any resources I can go through to get up and running?,Resources,254
+"Hello everybody. I am looking for a deep learning book or free course that doesn't assume any math background beyond high school math. I understand the mathematics behind fully connected layers pretty well (completed the first one and a half courses in Andrew NG's deep learning specialization) so I am looking for a book to expand into convolutional or recurrent networks, so that I can build my own without any libraries. Are there any resources or books that you recommend?",Resources,255
+"Hello Everyone, i know the ML basic, thanks to Andrew NG, can anyone guide me how to proceed further",Resources,256
+Hello everyone. Probably a very asked question around here. I'm in doubt between two courses. Andrew Ng's Machine Learning @ Coursera and Machine Learning with Python-From Linear Models to Deep Learning @ edX.,Resources,257
+"Hello, I'm looking for a good video tutorial for Numpy / Pandas / Matplotlib. Any of these three would work, Thanks",Resources,258
+"Hey guys, I'm just starting with NLP. Do you recommend any books or videos or any other resources?",Resources,259
+hi,Resources,260
+Hi .... Can anyone point me to a few case studies where NLP is used for a product in a B2B context?,Resources,261
+"Hi guys, do you have any engineering focused resources? I love watching talks, and while articles and course are mostly about building a model and testing it, there are really few resources about how to have a nice workflow and pipeline to put that model in production, how to assess its performance in production and, how to improve and iterate on it after you've have your first shot",Resources,262
+"Hi guys, do you know any website/app where we could practice AI skills by making bots to fight each other in a competitive way",Resources,263
+"Hi, any beginner resources for image classification using CNN? Thanks :3",Resources,264
+Hi. Any hands-on keras course that actually teaches how to code in Keras? Most ML courses are slow af and are for total beginners. I want something that focuses more on Keras API than Deep Learning fundamentals.,Resources,265
+i swear i've read about them for hours from different sources and still have absolutely no idea what's going on,Resources,266
+is there a book that’s as visually appealing as d2l.ai but about classical ml methods? that’s odd criteria but i usually lose focus trying to read black and white pdfs,Resources,267
+Is there any courses or resources for ML where I can learn by making projects?,Resources,268
+is there some git repo or textbook etc that succinctly lists the pros and cons of common models? whenever i learn about a new model its hard to understand why it would or would not be used,Resources,269
+Suggest me a good deep learning course on Coursera beside deeplearning.ai,Resources,270
+what are good resources for learning nlp?,Resources,271
+"Where might I find the answers to the math/written assignments of CS224N? I was able to find a number of GitHub repositories containing answers to the coding exercises, but none to verify my math answers with.",Resources,272
+"What do you guys think of Machine Learning: An Algorithmic Perspective 2nd Edition. I'm planning on buying it, is it worth it or should I purchase another book? Plus I'd love book suggestions for ML/DL. Cheers.",Resources,273
+Hi everyone! Is there a YT channel that covers news and events in the Artificial intelligence field and community?,Resources,274
+Any resource to learn Data Warehouse concepts with examples?,Resources,275
+1st year Msc in Data Science student. resume.pdf,Resume Review,276
+"Agree with this. If you have a STEM degree, especially an engineering one, that won't disqualify you from CS roles. Philosophy majors will have a more difficult time getting in the door though to any job tbh",Resume Review,277
+any tips?,Resume Review,278
+Do you think interviewers want to see my code wars profile?,Resume Review,279
+Faraz_Khan_-_One_page2.pdf,Resume Review,280
+Feel free to update your resume and repost it if you want us to take another pass. In general you have a wonderful resume that you should feel very proud of,Resume Review,281
+"for example ""i successfully wrote 400 lines of code to solve xyz problem""",Resume Review,282
+"Great resume Papa! I love that you started with a personal statement and prominently showcase your skills. Here are a few things I would recommend changing: 1. I assume your name and contact info is normally appended and you just redacted that for this post. If not, I would definitely add it  2. It's not clear to me if you have just a bachelors or a masters as well based on the two GPAs listed. If you have a masters, I would list that as a separate degree from the same school. Right now, its very easy to miss. 3. You don't need to list your 3.1 GPA if you don't want to 4. Your personal statement looks more like a list of projects that a statement about yourself. I would recommend you create a list of projects and list those if you have them. I would write something personal for your personal statement along the lines of what you care about and what you're excited by. 5. If you create a list of projects, make sure you explain the projects you completed. Faraz's resume below has some good examples of how to list projects. 6. A lot of what you list in your personal statement can be put in your skills section, things like data visualization, data cleaning, automation, data analysis can all be skills you put in your skills section. 7. I have a hard time understanding your certifications and extra courses section. It could use further clarification to show what is a certification, what is an extra course, and what it means that you took extra courses. Maybe touch on that in your personal statement about going above and beyond in your education. I think these should be some good tips for now. Feel free to respost your resume with edits and we'll take a second pass at it",Resume Review,283
+I have certain question along with these: 1. Do I need to include my club activities that I did in college? 2. Do I need to provide my marks for the degrees? 3. Should I make some important texts in project section bold?,Resume Review,284
+"I think that for a student is good enough, for the questions 1) I wouldn't 2) If they're good 3) yep, try to underline some keyword like machine learning, python and so on",Resume Review,285
+I think these should be some good tips for now. Feel free to respost your resume with edits and we'll take a second pass at it,Resume Review,286
+I think this advice may be out of date. ATS these days will convert everything to plaintext which once it reaches a human eye will be obvious what you're doing.,Resume Review,287
+"If anyone feels uncomfortable sharing their resume publicly, feel free to message any of the experts privately, and they can share your resume anonymously with your personal information removed. That is the case with the following resume which I will give suggestions on.",Resume Review,288
+"If we're game for some resume-adjacent content, I organized an application I submitted earlier today into a google doc",Resume Review,289
+is it a good idea to put your individual (or best 3) coding projects on your resume?(edited),Resume Review,290
+"of course that happens - that's why judging people by their college never helps. its just that because of the highly selective process, you are exposed to more smarter and like-minded people that may help you achieve more in research and competetions.",Resume Review,291
+Ok cool makes sense. Only list your major gpa but you should say major because i didn’t understand it otherwise,Resume Review,292
+Papa Kamis — 03/28/2021,Resume Review,293
+"something for your ""other"" section at best if you're a very fresh grad or an undergrad seeking an internship but probably they aren't gonna click on it anyway",Resume Review,294
+"Sure. Im a uni student, but yet i do self learning for each and every practical skill. Sigh. Guided learning is great, but if you do self learning along with it, that's a cherry on top.",Resume Review,295
+"Thanks @antonai , will underline the keywords",Resume Review,296
+Thanks for sharing @frazali52 i will get to this tonight,Resume Review,297
+"Thanks for sharing your resume Faraz. It looks excellent. You have great formatting, I love that you bolded the key terms and figures, and I like that you led with technical skills. Improving your resume required getting a little more creative, but here are my ideas: 1. You may benefit from a personal statement. Personal statements are an opportunity to bring some humanity and a face to your resume, which is otherwise fairly flat. Just like product ads don't just list the features, but try and connect to the customer, you might benefit from a personal statement that resonates with a potential employer. Examples might be: you always go the extra mile to exceed client expectations, you love storytelling and data is a way you love to make your stories better, or youre entrepreneurial and you try new solutions. 2. Another way to bring a personal touch is to add your hobbies. Most employers want to work with people they'll also like being around, and I'm sure you're a great person to be around. If you're afraid that sharing your hobbies might be too foreign or unfamiliar to your employer, I have very unique hobbies and interests on my resume, like Talmud. Usually it's just a conversation starter. 3. You have work experience but you don't have big brand names on your resume to give you credibility (besides for your university). Since you've done a lot of projects for a lot of different people, you may benefit from a section that lists references from people you've worked for, and even reviews from those people if you have them. If you have one or two glowing reviews on your resume, itd be hard for anyone to discount that. And definitely give a brief background of the people you're providing as references if you do. 4. You have a great skills section, but you could always add more. Often the goal is hit on an employer search term, so don't be bashful about adding in additional terms that you think your employer may be searching for. Like data cleaning for example",Resume Review,298
+"yes of course, just delete any address, phone number, etc.",Resume Review,299
+"Yes, but be prepared to speak intelligently to anything you put on your resume",Resume Review,300
